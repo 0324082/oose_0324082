@@ -323,3 +323,7 @@
 例外狀況－
 
 房客訊息傳送失敗。
+
+###強韌圖：
+![image](https://cloud.githubusercontent.com/assets/22367717/20454260/43aec45a-ae76-11e6-9a2b-f34e6615d769.jpg)
+![image](https://cloud.githubusercontent.com/assets/22367717/20454259/43ae12a8-ae76-11e6-84a4-e5429fd83063.jpg)
