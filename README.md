@@ -333,3 +333,6 @@
 
 ###循序圖REF：
 ![image](https://cloud.githubusercontent.com/assets/22367717/20754909/0413b2bc-b748-11e6-964c-58e3c84da8e5.png)
+
+###類別圖：
+![image](https://cloud.githubusercontent.com/assets/22367717/21359206/6b30125a-c716-11e6-8f93-1fb8f4e6a53c.png)
