@@ -278,8 +278,8 @@
 
 
 ###強韌圖：
-![image](https://cloud.githubusercontent.com/assets/22367717/20454260/43aec45a-ae76-11e6-9a2b-f34e6615d769.jpg)
-![image](https://cloud.githubusercontent.com/assets/22367717/20454259/43ae12a8-ae76-11e6-84a4-e5429fd83063.jpg)
+![image](https://cloud.githubusercontent.com/assets/22367717/21608383/22baab3e-d1f7-11e6-91db-55d02430389c.jpg)
+![image](https://cloud.githubusercontent.com/assets/22367717/21608382/22b532a8-d1f7-11e6-8192-39b0b596895c.jpg)
 
 ###循序圖：
 ![image](https://cloud.githubusercontent.com/assets/22367717/20754908/0412f188-b748-11e6-89cd-a649dc943549.png)
