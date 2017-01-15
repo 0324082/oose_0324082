@@ -278,8 +278,8 @@
 
 
 ###強韌圖：
-![image](https://cloud.githubusercontent.com/assets/22367717/21608383/22baab3e-d1f7-11e6-91db-55d02430389c.jpg)
-![image](https://cloud.githubusercontent.com/assets/22367717/21608382/22b532a8-d1f7-11e6-8192-39b0b596895c.jpg)
+![image](https://cloud.githubusercontent.com/assets/22367717/21960442/be3b1cd2-db26-11e6-9367-01ffcb6f3047.jpg)
+![image](https://cloud.githubusercontent.com/assets/22367717/21960441/be16899e-db26-11e6-9b8f-09e9b4b61b8a.jpg)
 
 ###循序圖：
 ![image](https://cloud.githubusercontent.com/assets/22367717/20754908/0412f188-b748-11e6-89cd-a649dc943549.png)
@@ -295,7 +295,7 @@
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960368/84420994-db23-11e6-94b7-95ead039090e.png)
 ###房東：
 ###登入後首頁：
-![image](https://cloud.githubusercontent.com/assets/22367717/21960373/844ffe78-db23-11e6-951d-ab7319b0fb44.png)
+![image](https://cloud.githubusercontent.com/assets/22367717/21960446/f7167e5c-db26-11e6-97c9-44468588aac4.png)
 ###門禁感應管理：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960369/8444e47a-db23-11e6-83cc-48e9286beccd.png)
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960370/844c85d6-db23-11e6-92bb-92196d5082d1.png)
@@ -306,7 +306,7 @@
 
 ###房客：
 ###登入後首頁：
-![image](https://cloud.githubusercontent.com/assets/22367717/21960372/844f3718-db23-11e6-8925-ba710df88ca4.png)
+![image](https://cloud.githubusercontent.com/assets/22367717/21960445/f7126312-db26-11e6-8895-c2cc9eb2ef8e.png)
 ###水電費帳單：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960363/79f536dc-db23-11e6-8d1c-48aea96e746f.jpg)
 ###設備維修：
