@@ -303,7 +303,8 @@
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960364/79fc424c-db23-11e6-9b30-b72b74fb0bd4.jpg)
 ###設備維修管理：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960365/79fe76c0-db23-11e6-94df-b9f1a77b7a5d.jpg)
-
+###最新公告管理：
+![image](https://cloud.githubusercontent.com/assets/22367717/21961133/69c02cc2-db3c-11e6-9a3e-d06452958b51.png)
 ###房客：
 ###登入後首頁：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960445/f7126312-db26-11e6-8895-c2cc9eb2ef8e.png)
@@ -311,3 +312,8 @@
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960363/79f536dc-db23-11e6-8d1c-48aea96e746f.jpg)
 ###設備維修：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21960366/79ffdc5e-db23-11e6-82fb-b81be5f66c60.jpg)
+###最新公告：
+![image](https://cloud.githubusercontent.com/assets/22367717/21961136/8361c5fa-db3c-11e6-9e31-2c568ff39a8b.png)
+####擁有樓管權限：
+![image](https://cloud.githubusercontent.com/assets/22367717/21961127/629e9b18-db3c-11e6-9916-726b4c8f37a9.png)
+![image](https://cloud.githubusercontent.com/assets/22367717/21961132/6997b738-db3c-11e6-8d7d-91a2904a437a.png)
