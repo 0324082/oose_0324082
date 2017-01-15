@@ -289,3 +289,25 @@
 
 ###類別圖：
 ![image](https://cloud.githubusercontent.com/assets/22367717/21359206/6b30125a-c716-11e6-8f93-1fb8f4e6a53c.png)
+
+###APP製作草圖：
+#登入帳號：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960368/84420994-db23-11e6-94b7-95ead039090e.png)
+##房東：
+#登入後首頁：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960373/844ffe78-db23-11e6-951d-ab7319b0fb44.png)
+#門禁感應管理：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960369/8444e47a-db23-11e6-83cc-48e9286beccd.png)
+![image](https://cloud.githubusercontent.com/assets/22367717/21960370/844c85d6-db23-11e6-92bb-92196d5082d1.png)
+#水電費管理：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960364/79fc424c-db23-11e6-9b30-b72b74fb0bd4.jpg)
+#設備維修管理：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960365/79fe76c0-db23-11e6-94df-b9f1a77b7a5d.jpg)
+
+##房客：
+#登入後首頁：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960372/844f3718-db23-11e6-8925-ba710df88ca4.png)
+#水電費帳單：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960363/79f536dc-db23-11e6-8d1c-48aea96e746f.jpg)
+#設備維修：
+![image](https://cloud.githubusercontent.com/assets/22367717/21960366/79ffdc5e-db23-11e6-82fb-b81be5f66c60.jpg)
